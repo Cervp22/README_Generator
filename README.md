@@ -1,12 +1,12 @@
 # README_Generator
 
     https://github.com/Cervp22/READ_ME Generator
-    
+
     ![Github licenses](https://img.shields.io/badge/license-MIT-blue.svg)
 
     #Description
 
-    THis project is to developers speed up the process of making a readme file on the project/assingment they are working on. 
+    This project is to developers speed up the process of making a readme file on the project/assingment they are working on. 
 
     # Table Of Contents
     * [Installation](#installatoin)
